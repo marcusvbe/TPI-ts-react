@@ -1,0 +1,63 @@
+.clientes-heading {
+    font-size: 2em;
+    color: #333;
+    padding: 20px 0;
+    padding-left: 20px;
+}
+
+.clientes-lista {
+    margin-top: 20px;
+}
+
+.navbar-custom {
+    background-color: #50D0C4;
+}
+
+.nav-link-custom {
+    color: #ffffff;
+}
+
+.nav-link-custom:hover {
+    color: #cccccc; 
+}
+
+.navbar-brand-right {
+    margin-left: 1rem; 
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2%;
+}
+
+.container div {
+    width: 48%;
+    padding: 1%;
+    border:  1px black solid;
+    text-align: center;
+    border-radius: 3%;
+}
+
+.container h6 {
+    text-align: center;
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+}
+
+.botao a:hover{
+    background-color: rgb(231, 226, 226);
+}
+
+.botao a{
+    color: black;
+    border:  1px black solid;
+    padding: 1%;
+    border-radius: 5%;
+
+}
